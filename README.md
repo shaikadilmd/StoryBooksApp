@@ -39,5 +39,5 @@ npm start
 ```
 ## You may also like...
 
-- [VidJot](https://github.com/shaikadilmd/VidJot)  -  An app for jotting down ideas for future Youtube videos.
+- [VidJot](https://github.com/shaikadilmd/videoJot)  -  An app for jotting down ideas for future Youtube videos.
 
